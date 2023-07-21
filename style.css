@@ -68,5 +68,7 @@ body {
     top: 0;
     width: 160px;
     height: 180px;
-    border: 25px solid #dcdcdc;
+    border: 25px solid #000;
+    border-left: 25px solid transparent;
+    border-radius: 50%;
 }
